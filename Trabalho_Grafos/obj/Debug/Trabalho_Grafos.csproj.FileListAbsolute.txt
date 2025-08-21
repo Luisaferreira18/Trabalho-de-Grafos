@@ -1,0 +1,7 @@
+C:\Users\daani\source\repos\Trabalho_Grafos\Trabalho_Grafos\obj\Debug\Trabalho_Grafos.csproj.AssemblyReference.cache
+C:\Users\daani\source\repos\Trabalho_Grafos\Trabalho_Grafos\obj\Debug\Trabalho_Grafos.csproj.CoreCompileInputs.cache
+C:\Users\daani\source\repos\Trabalho_Grafos\Trabalho_Grafos\bin\Debug\Trabalho_Grafos.exe.config
+C:\Users\daani\source\repos\Trabalho_Grafos\Trabalho_Grafos\bin\Debug\Trabalho_Grafos.exe
+C:\Users\daani\source\repos\Trabalho_Grafos\Trabalho_Grafos\bin\Debug\Trabalho_Grafos.pdb
+C:\Users\daani\source\repos\Trabalho_Grafos\Trabalho_Grafos\obj\Debug\Trabalho_Grafos.exe
+C:\Users\daani\source\repos\Trabalho_Grafos\Trabalho_Grafos\obj\Debug\Trabalho_Grafos.pdb
